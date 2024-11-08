@@ -1,16 +1,29 @@
-DROP DATABASE IF EXISTS dbpessoa;
+DROP DATABASE IF EXISTS dbcolecao;
 
-CREATE DATABASE dbpessoa;
+CREATE DATABASE dbcolecao;
 
-USE dbpessoa;
+USE dbcolecao;
 
 
-CREATE TABLE pessoa (
-idpessoa INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+CREATE TABLE usuario (
+idusuario INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
 nome VARCHAR(255),
-cpf VARCHAR(11) NOT NULL UNIQUE,
-datanascimento DATE,
-imagem LONGBLOB
+email VARCHAR(255),
+login VARCHAR(255),
+senha VARCHAR(255),
+datacadastro DATE,
+dataexpiracao DATE
 );
 
-select * from pessoa;
+
+CREATE TABLE moeda (
+idmoeda INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+idusuario INT, FOREIGN KEY (idusuario) REFERENCES usuario (idusuario),
+nome VARCHAR(255),
+pais VARCHAR(255),
+ano INT,
+valor DECIMAL(10,2),
+detalhes VARCHAR(255),
+datacadastro DATE,
+imagem LONGBLOB
+);

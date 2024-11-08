@@ -32,7 +32,6 @@ INDEX VERSION 1.134+C:\Users\phillip\Desktop\projeto\colecao\back-end\.metadata\
 904373153.index
 2685541162.index
 2316574060.index
-3887107307.index
 2367811677.index
 2880386337.index
 1920645124.index
