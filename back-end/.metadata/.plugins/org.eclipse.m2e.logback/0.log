@@ -1868,3 +1868,19 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.glassfish
 2024-11-08 15:27:05,979 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\phillip\Desktop\projeto\colecao\back-end\Colecao\src\test\resources
 2024-11-08 15:27:05,979 [Worker-32: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Colecao
 2024-11-08 15:27:05,979 [Worker-32: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Colecao
+2024-11-08 15:29:12,480 [Worker-37: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 15:29:12,482 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\phillip\Desktop\projeto\colecao\back-end\Colecao\src\main\resources
+2024-11-08 15:29:12,485 [Worker-37: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 15:29:12,492 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\phillip\Desktop\projeto\colecao\back-end\Colecao\src\test\resources
+2024-11-08 15:33:58,208 [Worker-40: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 15:33:58,209 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\phillip\Desktop\projeto\colecao\back-end\Colecao\src\main\resources
+2024-11-08 15:33:58,211 [Worker-40: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 15:33:58,217 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\phillip\Desktop\projeto\colecao\back-end\Colecao\src\test\resources
+2024-11-08 15:34:22,402 [Worker-17: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 15:34:22,408 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\phillip\Desktop\projeto\colecao\back-end\Colecao\src\main\resources
+2024-11-08 15:34:22,410 [Worker-17: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 15:34:22,416 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\phillip\Desktop\projeto\colecao\back-end\Colecao\src\test\resources
+2024-11-08 15:40:56,030 [Worker-43: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 15:40:56,031 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\phillip\Desktop\projeto\colecao\back-end\Colecao\src\main\resources
+2024-11-08 15:40:56,033 [Worker-43: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 15:40:56,039 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\phillip\Desktop\projeto\colecao\back-end\Colecao\src\test\resources
